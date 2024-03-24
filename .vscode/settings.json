@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "*.log": "log",
+        "*.idl": "ini",
+        "*.proto": "properties",
+        "*.inc": "cpp"
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.meta": true,
+        "**/*.mat": true,
+        "**/*.anim": true,
+        "**/*.resx": true,
+        "**/*.prefab": true,
+        "**/*.manifest": true,
+        "**/*.controller": true,
+        "**/*.png": true,
+        "**/*.jpg": true,
+
+        "**/protobuf-3.21.12-tmp": true,
+
+
+        "**/log": true,
+    }
+}
